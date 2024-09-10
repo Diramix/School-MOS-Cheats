@@ -1,5 +1,5 @@
 # School MOS Cheats - Взлом на оценки
-![Читы на оценки](https://github.com/user-attachments/assets/1d3091bf-5544-4bfb-91a3-27e2704e2e2b)
+![Читы на оценки](https://github.com/Diramix/School-MOS-Cheats/blob/main/doc/doc_image.png?raw=true)
 ![License](https://img.shields.io/github/license/johnturner4004/readme-generator.svg?style=for-the-badge)
 
 ## Описание
